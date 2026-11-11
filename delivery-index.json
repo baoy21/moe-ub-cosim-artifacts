@@ -1,0 +1,32 @@
+{
+  "schema": "public-diagnostic-delivery/1",
+  "repo": "baoy21/moe-ub-cosim-artifacts",
+  "tag": "latest-small-execution-facts-v1",
+  "files": {
+    "FORMAT.md": {
+      "bytes": 1928,
+      "sha256": "4140c817a7dee66d18cf0863ff5864b3ae907062141191168725d4fad107ae39",
+      "url": "https://github.com/baoy21/moe-ub-cosim-artifacts/releases/download/latest-small-execution-facts-v1/FORMAT.md"
+    },
+    "check_execution_facts.py": {
+      "bytes": 9774,
+      "sha256": "b0ffd676a092e4556ba498dfd5fcab6f873283b9cde18bd9b9a27e56b440cdb0",
+      "url": "https://github.com/baoy21/moe-ub-cosim-artifacts/releases/download/latest-small-execution-facts-v1/check_execution_facts.py"
+    },
+    "latest-small-execution-facts.tar.gz": {
+      "bytes": 106857284,
+      "sha256": "a63aef2785ab87b01623c3aae7320e1bf73f9a7fee6ccaebc84df3d6b56527fa",
+      "url": "https://github.com/baoy21/moe-ub-cosim-artifacts/releases/download/latest-small-execution-facts-v1/latest-small-execution-facts.tar.gz"
+    },
+    "latest-small.tar.gz": {
+      "bytes": 4030625,
+      "sha256": "755803550dbcd55076a5277db7363636aff986d97a362eb70987ca485eb0b113",
+      "url": "https://github.com/baoy21/moe-ub-cosim-artifacts/releases/download/latest-small-execution-facts-v1/latest-small.tar.gz"
+    },
+    "provenance.json": {
+      "bytes": 19359,
+      "sha256": "69b51c5447f4fa5f1fe3d69b487e1658c1ebc8676cea6af50f73d258c5a6d0b1",
+      "url": "https://github.com/baoy21/moe-ub-cosim-artifacts/releases/download/latest-small-execution-facts-v1/provenance.json"
+    }
+  }
+}
